@@ -1,1 +1,2 @@
-
+Added timer flexibility
+Added 'TimerTop' element to timer settings
