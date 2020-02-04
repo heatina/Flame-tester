@@ -1,3 +1,4 @@
+6a55f28e7bca4dbb2e9b8692ebe1a8ac  flameupdate1.0.4
 39ae409a00bd2401ec00ab1639aac3ff  flameupdate1.0.3
 c2350bbd585daf684d746a1a437f6154  flameupdate1.0.2
 b533eada8075d4eb9e37204bd0791fb0  flameupdate1.0.1
